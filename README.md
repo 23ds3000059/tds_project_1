@@ -1,3 +1,3 @@
 - The data was scraped with the help of the GitHub API of Chicago having 100 followers by collecting their public repository details, including stars, watchers, and licenses.
 - A small percentage of repositories use the Wiki or Project features even though they have the potential for better project management.
-- Developers should fouces on utilizing GitHub's Project and Wiki features for enhanced collaboration and documentation within their repositories.
+- Developers should focus on utilizing GitHub's Project and Wiki features for enhanced collaboration and documentation within their repositories.
